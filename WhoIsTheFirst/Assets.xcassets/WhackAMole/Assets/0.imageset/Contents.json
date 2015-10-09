@@ -2,11 +2,18 @@
   "images" : [
     {
       "idiom" : "universal",
+<<<<<<< HEAD
       "filename" : "0.jpg",
+=======
+>>>>>>> 5db9a6e50f02e114d32d18c8cd0ac2e305633c30
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+<<<<<<< HEAD
+=======
+      "filename" : "mole.png",
+>>>>>>> 5db9a6e50f02e114d32d18c8cd0ac2e305633c30
       "scale" : "2x"
     },
     {

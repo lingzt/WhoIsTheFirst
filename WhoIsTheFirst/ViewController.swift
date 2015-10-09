@@ -36,12 +36,12 @@ class ViewController: UIViewController {
         "Melissa",
         "Robb",
         "Tim",
-                "Tim"
     ]
     
     var studentCountArray = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
     var timer = NSTimer()
     var seconds = 30
+
     var imagePicked = UIImage(named: "0")
     var index = 0
     var index1 = 0
@@ -99,7 +99,8 @@ class ViewController: UIViewController {
             findWinner()
             
                 let alert = UIAlertController(title: "Times Up!",
-                    message: "The funniest person is \(studentNameArray[maxCountIndex])",
+
+                    message: "The funniset person is \(studentNameArray[maxCountIndex])",
                     preferredStyle: UIAlertControllerStyle.Alert)
                 
                 alert.addAction(UIAlertAction(title: "Play Again",

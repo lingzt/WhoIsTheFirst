@@ -4,6 +4,7 @@
       "idiom" : "universal",
       "filename" : "Erika.jpg",
       "scale" : "1x"
+<<<<<<< HEAD
     },
     {
       "idiom" : "universal",
@@ -12,6 +13,8 @@
     {
       "idiom" : "universal",
       "scale" : "3x"
+=======
+>>>>>>> 5db9a6e50f02e114d32d18c8cd0ac2e305633c30
     }
   ],
   "info" : {
